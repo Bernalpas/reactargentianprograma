@@ -14,6 +14,7 @@ function Navegacion() {
                         <Link to="/react" class="m-3">Home</Link>
                         <Link to="/imagenes" class="m-3">Imágenes</Link>
                         <Link to="/formulario" class="m-3">Formulario</Link>
+                        <Link to="/efectos" class="m-3">Efectos</Link>
                     </Nav>
                 </Navbar.Collapse>
             </Container>
